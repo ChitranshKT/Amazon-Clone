@@ -1,0 +1,574 @@
+*
+{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+.Nav-Belt
+{
+    height: 70px;
+    width: 100%;
+    background-color: #0F1111;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.Logo-Space
+{
+    height: 60px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Logo
+{
+    background-image: url("Logo.png");
+    background-size: cover;
+    height: 30.53333px;
+    width: 100px;
+}
+
+.Border
+{
+    border: 2px solid transparent;
+}
+
+.Border:hover
+{
+    border: 2px solid white;
+}
+
+.Location-Space
+{
+    height: 60px;
+    width: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.Location
+{
+    height: 40px;
+    width: 80px;
+
+}
+
+.P1
+{
+    color: #CCCCCC;
+    font-size: 0.85rem;
+    margin-left: 22px;
+}
+
+.P2
+{ 
+    color: #FFFFFF;
+    font-size: 1rem;
+    margin-left: 2px;
+}
+
+.address
+{
+    height: 20px;
+    width: 90px;
+    display: flex;
+}
+
+.Search-Space
+{
+    height: 60px;
+    width: 945px;
+    display: flex;
+    align-items: center;
+}
+
+.All
+{
+    color: #0F1111;
+    height: 40px;
+    width: 50px;
+    background-color: #c6c7c7;
+    border: 2px solid white;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.Amazon-Search
+{
+    height: 40px;
+    width: 850px;
+    box-sizing: border-box;
+    border: 2px solid white;
+}
+
+.Search-Icon
+{
+    height: 40px;
+    width: 45px;
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    border: 2px solid white;
+    box-sizing: border-box;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.Language-Space
+{
+    height: 60px;
+    width: 60px;
+    color: white;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Accounts-Space
+{
+    height: 60px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.P3
+{
+    color: white;
+    font-size: 0.85rem;
+}
+
+.P4
+{
+    color: white;
+    font-size: 1rem;
+}
+
+.Return-Space
+{
+    height: 60px;
+    width: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.P5
+{
+    color: white;
+    font-size: 0.85rem;
+}
+
+.P6
+{
+    color: white;
+    font-size: 1rem;
+}
+
+.Cart
+{
+    height: 60px;
+    width: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Cart1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.P7
+{
+    font-size: 30px;
+}
+
+.P8
+{
+    color: white;
+    font-size: 1rem;
+}
+
+.Others-Belt
+{
+    height: 40px;
+    width: 100%;
+    background-color: #232F3E;
+    display: flex;
+    align-items: center;
+}
+
+.Others-Container
+{
+    height: 40px;
+    width: 45%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+
+.All2
+{
+    height: 35px;
+    align-content: center;
+}
+
+.P9
+{
+    color: white;
+    font-size: 1rem;
+}
+
+.Todays-Deals
+{
+    height: 35px;
+    align-content: center;
+}
+
+.P10
+{
+    color: white;
+    font-size: 0.9rem;
+}
+
+.Todays-Deals
+{
+    height: 35px;
+    align-content: center;
+}
+
+.P11
+{
+    color: white;
+    font-size: 0.9rem;
+}
+
+.Prime-Video
+{
+    height: 35px;
+    align-content: center;
+}
+
+.P12
+{
+    color: white;
+    font-size: 0.9rem;
+}
+
+.Gift-Cards
+{
+    height: 35px;
+    align-content: center;
+}
+
+.P13
+{
+    color: white;
+    font-size: 0.9rem;
+}
+
+.Sell
+{
+    height: 35px;
+    align-content: center;
+}
+
+.P14
+{
+    color: white;
+    font-size: 0.9rem;
+}
+
+.Customer-Service
+{
+    height: 35px;
+    align-content: center;
+}
+
+.P15
+{
+    color: white;
+    font-size: 0.9rem;
+}
+
+.Registry
+{
+    height: 35px;
+    align-content: center;
+}
+
+.Main-BG
+{
+    height: 400px;
+    width: 100%;
+    background-image: url("TopOfBody.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.Main-BG-Bottom
+{
+    height: 40px;
+    width: 1400px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 340px;
+}
+
+.Box-Container
+{
+    height: 860px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Box
+{
+    height: 350px;
+    width: 23%;
+    background-color: #faefef;
+    border: 2px solid black;
+    border-radius: 6px;
+    margin-top: 1rem;
+}
+
+h2
+{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.Box-Image-1
+{
+    height: 260px;
+    background-size: cover;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+
+.Box-P-1
+{
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+
+.Box-Image-2
+{
+    height: 234px;
+    background-size: cover;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.Box-P-1
+{
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+
+.Box-Long-1
+{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.Box-Long-2
+{
+    height: 300px;
+    width: 95%;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+
+.Box-Long-3
+{
+    height: 300px;
+    width: 1400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Box-Image-3
+{
+    height: 200px;
+    width: 58px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Box-Image-4
+{
+    height: 200px;
+    width: 432px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Box-Image-5
+{
+    height: 200px;
+    width: 78px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Box-Image-6
+{
+    height: 200px;
+    width: 183px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Box-Image-7
+{
+    height: 200px;
+    width: 193px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Box-Image-8
+{
+    height: 200px;
+    width: 218px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.Box-Image-9
+{
+    height: 200px;
+    width: 224px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Foot-1
+{
+    height: 50px;
+    width: 100%;
+    background-color: #37475A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Foot-P-1
+{
+    color: white;
+}
+
+.Foot-2
+{
+    height: 300px;
+    width: 100%;
+    background-color: #232F3E;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Foot-P-2
+{
+    color: white;
+    font-size: 20px;
+}
+
+.Foot-A
+{
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.Foot-P-2
+{
+    margin-top: 10px;
+}
+
+ul a
+{
+    display: block;
+    margin-top: 10px;
+}
+
+a
+{
+    text-decoration: none;
+
+}
+
+.Foot-3
+{
+    height: 100px;
+    width: 100%;
+    background-color: #232F3E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1px;
+}
+
+.Foot-3-1
+{
+    height: 200px;
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Foot-Logo
+{
+    background-image: url('Logo.png');
+    height: 32.06px;
+    width: 105px;
+    background-size: cover;
+}
+
+.Foot-4
+{
+    height: 100px;
+    width: 100%;
+    background-color: #131A22;
+    text-align: center;
+}
+
+.Foot-4-1
+{
+    padding-top: 22px;
+}
+
+.FootP4
+{
+    color: white;
+}
+
+.Foot-4-A
+{
+    color: white;
+}
